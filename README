@@ -1,0 +1,9 @@
+A small little quiz written in python to review truth tables.
+
+to view the quiz run the script in your command line
+
+# python boolquiz.py
+
+The quiz will run you through a series of logical propositions that you must answer as true or false.
+
+A tally of your correct and incorrect answers are presented at the end of the quiz. 
